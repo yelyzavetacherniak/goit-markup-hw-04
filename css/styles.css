@@ -398,3 +398,12 @@ fill: #f4f4fd;
     color: #FFFFFF;
     margin-bottom: 16px;
 }
+
+.icon-list {
+    gap: 16px;
+}
+
+.footer-link:hover,
+.footer-link:focus {
+   background-color: #31d0aa;
+}
