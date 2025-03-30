@@ -288,6 +288,7 @@ margin-bottom: 8px;
 
 .team-text {
     text-align: center;
+    margin-bottom: 8px;
 }
 
 /* SECTION FOUR */
@@ -356,7 +357,6 @@ transform: translateY(0);
     justify-content: center;
     align-items: center;
     gap: 24px;
-    margin-top: 8px;
 }
 
 .icon-item {
@@ -425,7 +425,7 @@ fill: #f4f4fd;
     letter-spacing: 0.02em;
     color: #FFFFFF;
     margin-bottom: 16px;
-}
+   
 
 .footer-list {
     gap: 16px;
